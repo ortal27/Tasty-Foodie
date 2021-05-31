@@ -1,0 +1,87 @@
+ [
+    {
+        "name":"Burger",
+        "type":"Meals",
+        "imageUrl":"burger.jpg",
+        "description":"Tasty cheeseBurger",
+        "price":"45$"
+    },
+    {
+        "name":"Pasta",
+        "type":"Meals",
+        "imageUrl":"pasta.jpeg",
+        "description":"Tasty pasta with cheese and mushrooms",
+        "price":"54$"
+    },
+    {
+        "name":"Pizza",
+        "type":"Meals",
+        "imageUrl":"pizza.jpeg",
+        "description":"Tasty Margarita pizza",
+        "price":"38$"
+    },
+    {
+        "name":"Steak",
+        "type":"Specials",
+        "imageUrl":"steak.jpeg",
+        "description":"Grelic Steak with mashed potatoes",
+        "price":"87$"
+    },
+    {
+        "name":"Chicken",
+        "type":"Specials",
+        "imageUrl":"chicken.jpeg",
+        "description":"Tasty Chickeen with rice and broccoli",
+        "price":"75$"
+    },
+    {
+        "name":"Homos",
+        "type":"Specials",
+        "imageUrl":"homos.jpeg",
+        "description":"Tasty Homos",
+        "price":"30$"
+    },
+    {
+        "name":"Margarita",
+        "type":"Drinks",
+        "imageUrl":"margarita.jpeg",
+        "description":"Tasty Margarita cocktail",
+        "price":"25$"
+    },
+    {
+        "name":"Orenge Juice",
+        "type":"Drinks",
+        "imageUrl":"orengJuice.jpeg",
+        "description":"Natural Orenge juice",
+        "price":"12$"
+    },
+    {
+        "name":"Tea",
+        "type":"Drinks",
+        "imageUrl":"tea.jpeg",
+        "description":"Green Tea",
+        "price":"10$"
+    },
+    {
+        "name":"Oreo Cake",
+        "type":"Desserts",
+        "imageUrl":"oreo.jpeg",
+        "description":"Tasty Oreo cake",
+        "price":"32$"
+    },
+    {
+        "name":"Mini Cheese Cake",
+        "type":"Desserts",
+        "imageUrl":"miniCheesecake.jpeg",
+        "description":"Tasty Mini Cheese Cake",
+        "price":"38$"
+    },
+    {
+        "name":"Choocolate Cake",
+        "type":"Desserts",
+        "imageUrl":"choocolateCake.jpeg",
+        "description":"Tasty Choocolate Cake",
+        "price":"40$"
+    }
+]
+
